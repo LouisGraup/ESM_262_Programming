@@ -1,5 +1,5 @@
 ---
-title: "ESM 262 Computing for Environmental Science"
+title: "ESM 262: Computing for Environmental Science"
 description: Introduction to computing for data management and analysis for environmental
   applications. The course provides MESM students with the basic computing and programming
   skills used in data science.
