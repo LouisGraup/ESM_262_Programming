@@ -38,11 +38,12 @@ Class will include a mix of lectures and hands-on examples, using students' own 
 
 ## Teaching team
 
-**Instructor:** Naomi Tague (www.tagueteamlab.org)
+**Instructor:** Louis Graup (www.louisgraup.com)
 
--   **Office hours:** email me
--   **email**  (tague@ucsb.edu)
--   **git user id** naomitague
+-   **Office:** Bren 1005
+-   **Office hours:** MW 11 AM - 1 PM
+-   **email**  (lgraup@ucsb.edu)
+-   **git user id** LouisGraup
 
 **Teaching assistant:** Ojas S
 
@@ -95,7 +96,7 @@ There will be 6 short assignment (more or less one for each class). You will usu
 To set this up:
 
 1. Create a single private git hub repo to hold all of your assignments (and nothing else!).
-2. Invite Ojas ('osarup`) and Naomi (`naomitague`) to collaborate on this repo.
+2. Invite Ojas ('osarup`) and Louis (`LouisGraup`) to collaborate on this repo.
 
 Then, for each assignment:
 

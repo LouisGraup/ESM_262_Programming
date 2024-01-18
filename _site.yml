@@ -1,7 +1,7 @@
-name: "ESM232"
-title: "ESM 232"
+name: "ESM262"
+title: "ESM 262"
 description: |
-  ESM 232 Webpage
+  ESM 262 Webpage
 output_dir: "docs"
 navbar:
   right:
