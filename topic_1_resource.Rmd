@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Commit change to local and  remote github repository
 
 -  <span style="color: maroon;">Add the link to your remote repository on Gauchospace as submission for Assignment 1a </span>
-- Make sure that Naomi and Ojas have access (if it is a private repository, add **louisgraup** and **osarup** as collaborators)
+- Make sure that Louis and Ojas have access (if it is a private repository, add **louisgraup** and **osarup** as collaborators)
 
 If you run into roadblocks here - come to Ojas's office hours on Tuesday! (if you can't let us know and
 we can try to find another time)
